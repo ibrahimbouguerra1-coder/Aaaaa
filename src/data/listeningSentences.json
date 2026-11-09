@@ -1,0 +1,136 @@
+[
+  {
+    "id": "list-1",
+    "level": "A0",
+    "sentenceEn": "Hello, my name is Fares.",
+    "translationAr": "مرحباً، اسمي فارس.",
+    "phoneticAr": "هَلُو، ماي نَيْم إِز فارِس",
+    "hintAr": "ابدأ بكلمة التحية ثم صفة الملكية my",
+    "wordsBank": [
+      "Hello,",
+      "my",
+      "is",
+      "name",
+      "Fares.",
+      "your",
+      "are",
+      "am"
+    ]
+  },
+  {
+    "id": "list-2",
+    "level": "A1",
+    "sentenceEn": "I drink coffee every morning.",
+    "translationAr": "أنا أشرب القهوة كل صباح.",
+    "phoneticAr": "آي دْرِنْك كُوفِي إِڤْرِي مُورْنِنْغ",
+    "hintAr": "مضارع بسيط يعبر عن عادة صباحية يومية",
+    "wordsBank": [
+      "I",
+      "drink",
+      "coffee",
+      "every",
+      "morning.",
+      "drinks",
+      "tea",
+      "at"
+    ]
+  },
+  {
+    "id": "list-3",
+    "level": "A2",
+    "sentenceEn": "She bought a new laptop yesterday.",
+    "translationAr": "هي اشترت حاسوباً محمولاً جديداً بالأمس.",
+    "phoneticAr": "شِي بُوت أَه نْيُو لَابْتُوب يَسْتَرْدَاي",
+    "hintAr": "فعل الماضي الشاذ من buy هو bought",
+    "wordsBank": [
+      "She",
+      "bought",
+      "a",
+      "new",
+      "laptop",
+      "yesterday.",
+      "buy",
+      "the",
+      "car"
+    ]
+  },
+  {
+    "id": "list-4",
+    "level": "B1",
+    "sentenceEn": "I have lived here for five years.",
+    "translationAr": "لقد عشت هنا لمدة خمس سنوات.",
+    "phoneticAr": "آي هَاڤ لِيڤْد هِير فُور فايڤ يِيرْز",
+    "hintAr": "المضارع التام مع for لتحديد مدة زمنية مستمرة",
+    "wordsBank": [
+      "I",
+      "have",
+      "lived",
+      "here",
+      "for",
+      "five",
+      "years.",
+      "since",
+      "am",
+      "living"
+    ]
+  },
+  {
+    "id": "list-5",
+    "level": "B2",
+    "sentenceEn": "If I had known, I would have helped you.",
+    "translationAr": "لو كنت أعلم، لكنت قد ساعدتك.",
+    "phoneticAr": "إِف آي هَاد نُون، آي وُود هَاڤ هِلْبْت يُو",
+    "hintAr": "الشرطية الثالثة للتعبير عن الندم في الماضي",
+    "wordsBank": [
+      "If",
+      "I",
+      "had",
+      "known,",
+      "I",
+      "would",
+      "have",
+      "helped",
+      "you.",
+      "will",
+      "knew"
+    ]
+  },
+  {
+    "id": "list-6",
+    "level": "C1",
+    "sentenceEn": "Rarely have I seen such dedication.",
+    "translationAr": "نادراً ما رأيت مثل هذا التفاني والإخلاص.",
+    "phoneticAr": "رِيرْلِي هَاڤ آي سِين سَاتش دِيدِيكَييْشَن",
+    "hintAr": "القلب النحوي البلاغي بعد ظرف النفي Rarely",
+    "wordsBank": [
+      "Rarely",
+      "have",
+      "I",
+      "seen",
+      "such",
+      "dedication.",
+      "never",
+      "did",
+      "saw"
+    ]
+  },
+  {
+    "id": "list-7",
+    "level": "C2",
+    "sentenceEn": "Securing consensus was no small achievement.",
+    "translationAr": "لم يكن تأمين الإجماع إنجازاً هيناً.",
+    "phoneticAr": "سِكْيُورِينْج كُونْسِنْسَس وَاز نُو سْمُول أَتْشِيڤْمَنْت",
+    "hintAr": "أسلوب نفي النقيض البلاغي (Litotes) للتوكيد الرفيع",
+    "wordsBank": [
+      "Securing",
+      "consensus",
+      "was",
+      "no",
+      "small",
+      "achievement.",
+      "a",
+      "great",
+      "feat"
+    ]
+  }
+]

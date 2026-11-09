@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="50%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+    <!-- Top Wing Gradient -->
+    <linearGradient id="topWing" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    <!-- Golden Star Sparkle -->
+    <linearGradient id="starGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="50%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <!-- Inner Glow -->
+    <linearGradient id="edgeGlow" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+  <!-- Container Squircle -->
+  <rect width="512" height="512" rx="140" fill="url(#bgGrad)" />
+  <rect x="8" y="8" width="496" height="496" rx="132" fill="none" stroke="url(#edgeGlow)" stroke-width="8" />
+
+  <!-- Futuristic Knight B/F Monogram -->
+  <!-- Stem -->
+  <path
+    d="M 148 120 C 148 108, 158 100, 172 100 L 216 100 C 228 100, 236 108, 236 120 L 236 392 C 236 404, 226 412, 212 412 L 172 412 C 158 412, 148 402, 148 388 Z"
+    fill="#ffffff"
+    opacity="0.96"
+  />
+  <!-- Top Wing (Aerodynamic Visor) -->
+  <path
+    d="M 216 100 L 372 100 C 392 100, 402 110, 392 130 L 352 190 C 344 200, 332 206, 316 206 L 236 206 L 216 100 Z"
+    fill="url(#topWing)"
+  />
+  <!-- Middle Wing (Soundwave Wing) -->
+  <path
+    d="M 226 236 L 332 236 C 350 236, 360 244, 352 260 L 326 304 C 318 314, 306 320, 290 320 L 232 320 L 226 236 Z"
+    fill="#ffffff"
+    opacity="0.92"
+  />
+  <!-- Sonic Waves (Voice / Phonics) -->
+  <path
+    d="M 382 225 C 398 241, 398 271, 382 287"
+    fill="none"
+    stroke="#38bdf8"
+    stroke-width="18"
+    stroke-linecap="round"
+  />
+  <path
+    d="M 416 205 C 442 231, 442 295, 416 321"
+    fill="none"
+    stroke="#818cf8"
+    stroke-width="15"
+    stroke-linecap="round"
+    opacity="0.8"
+  />
+  <!-- Gold Star Crest -->
+  <path
+    d="M 392 85 L 402 110 L 427 120 L 402 130 L 392 155 L 382 130 L 357 120 L 382 110 Z"
+    fill="url(#starGold)"
+  />
+</svg>

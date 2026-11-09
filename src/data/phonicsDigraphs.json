@@ -1,0 +1,175 @@
+[
+  {
+    "id": "ph-sh",
+    "combination": "SH",
+    "soundAr": "ش",
+    "titleAr": "صوت الشين (SH)",
+    "explanationAr": "حرفا S و H معاً ينتجان صوت الشين الصافي تماماً مثل شمس.",
+    "examples": [
+      {
+        "word": "She",
+        "phoneticAr": "شِي",
+        "meaningAr": "هي"
+      },
+      {
+        "word": "Shop",
+        "phoneticAr": "شُوب",
+        "meaningAr": "محل / يتسوق"
+      },
+      {
+        "word": "Wash",
+        "phoneticAr": "وَاش",
+        "meaningAr": "يغسل"
+      }
+    ]
+  },
+  {
+    "id": "ph-ch",
+    "combination": "CH",
+    "soundAr": "تش",
+    "titleAr": "صوت التش (CH)",
+    "explanationAr": "حرفا C و H ينتجان صوت التاء المدموجة مع الشين (تْش).",
+    "examples": [
+      {
+        "word": "Chair",
+        "phoneticAr": "تْشِير",
+        "meaningAr": "كرسي"
+      },
+      {
+        "word": "Teach",
+        "phoneticAr": "تِيتْش",
+        "meaningAr": "يُعلّم"
+      },
+      {
+        "word": "Cheap",
+        "phoneticAr": "تْشِيب",
+        "meaningAr": "رخيص"
+      }
+    ]
+  },
+  {
+    "id": "ph-th",
+    "combination": "TH",
+    "soundAr": "ث / ذ",
+    "titleAr": "صوتا الثاء والذال (TH)",
+    "explanationAr": "يُنطق إما مهموساً مثل الثاء (Three) أو مجهوراً مثل الذال (This).",
+    "examples": [
+      {
+        "word": "Three",
+        "phoneticAr": "ثْرِي",
+        "meaningAr": "ثلاثة (ث)"
+      },
+      {
+        "word": "Thank you",
+        "phoneticAr": "ثَانْك يُو",
+        "meaningAr": "شكراً لك (ث)"
+      },
+      {
+        "word": "This",
+        "phoneticAr": "ذِس",
+        "meaningAr": "هذا (ذ)"
+      },
+      {
+        "word": "Father",
+        "phoneticAr": "فَاذَر",
+        "meaningAr": "أب (ذ)"
+      }
+    ]
+  },
+  {
+    "id": "ph-ph",
+    "combination": "PH",
+    "soundAr": "ف",
+    "titleAr": "صوت الفاء (PH)",
+    "explanationAr": "التركيب PH يُنطق دائماً فاء صريحة (F).",
+    "examples": [
+      {
+        "word": "Phone",
+        "phoneticAr": "فُون",
+        "meaningAr": "هاتف"
+      },
+      {
+        "word": "Photo",
+        "phoneticAr": "فُوتُو",
+        "meaningAr": "صورة"
+      },
+      {
+        "word": "Pharmacy",
+        "phoneticAr": "فَارْمَسِي",
+        "meaningAr": "صيدلية"
+      }
+    ]
+  },
+  {
+    "id": "ph-tion",
+    "combination": "TION",
+    "soundAr": "شَن",
+    "titleAr": "المقطع الختامي (-tion)",
+    "explanationAr": "أي كلمة تنتهي بـ tion تُنطق دائماً (شَن).",
+    "examples": [
+      {
+        "word": "Information",
+        "phoneticAr": "إِنْفُورْمَيْشَن",
+        "meaningAr": "معلومات"
+      },
+      {
+        "word": "Station",
+        "phoneticAr": "سْتَيْشَن",
+        "meaningAr": "محطة"
+      },
+      {
+        "word": "Education",
+        "phoneticAr": "إِدْيُوكَيْشَن",
+        "meaningAr": "تعليم"
+      }
+    ]
+  },
+  {
+    "id": "ph-silent-e",
+    "combination": "Magic E",
+    "soundAr": "تمديد الحركة السابقة",
+    "titleAr": "حرف E السحري الصامت",
+    "explanationAr": "حرف E في نهاية الكلمة لا يُنطق، لكنه يجعل الحرف المتحرك قبله يُنطق باسمه الطويل.",
+    "examples": [
+      {
+        "word": "Hat -> Hate",
+        "phoneticAr": "هَات -> هَيْت",
+        "meaningAr": "قبعة -> يكره"
+      },
+      {
+        "word": "Kit -> Kite",
+        "phoneticAr": "كِت -> كَايْت",
+        "meaningAr": "حقيبة عدة -> طائرة ورقية"
+      },
+      {
+        "word": "Name",
+        "phoneticAr": "نَيْم (الـ E صامتة)",
+        "meaningAr": "اسم"
+      }
+    ]
+  },
+  {
+    "id": "ph-silent-letters",
+    "combination": "KN / WR / GH",
+    "soundAr": "حروف صامتة شائعة",
+    "titleAr": "الحروف الصامتة الشهيرة",
+    "explanationAr": "حرف K صامت قبل N، وحرف W صامت قبل R، وتركيب GH صامت في وسط الكلمات.",
+    "examples": [
+      {
+        "word": "Know / Knife",
+        "phoneticAr": "نُو / نَايْف (الـ K صامت)",
+        "meaningAr": "يعرف / سكين"
+      },
+      {
+        "word": "Write / Wrong",
+        "phoneticAr": "رَايْت / رُونْج (الـ W صامت)",
+        "meaningAr": "يكتب / خطأ"
+      },
+      {
+        "word": "Night / Light",
+        "phoneticAr": "نَايْت / لايْت (الـ GH صامت)",
+        "meaningAr": "ليل / ضوء"
+      }
+    ]
+  }
+]

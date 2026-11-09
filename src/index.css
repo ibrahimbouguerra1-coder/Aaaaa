@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Cairo", "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-en: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  
+  /* Duolingo iconic color system */
+  --color-duo-green: #58cc02;
+  --color-duo-green-dark: #46a302;
+  --color-duo-blue: #1cb0f6;
+  --color-duo-blue-dark: #1899d6;
+  --color-duo-purple: #ce82ff;
+  --color-duo-purple-dark: #af67e6;
+  --color-duo-orange: #ff9600;
+  --color-duo-orange-dark: #e58500;
+  --color-duo-red: #ff4b4b;
+  --color-duo-red-dark: #ea2b2b;
+  --color-duo-yellow: #ffc800;
+  --color-duo-yellow-dark: #e5b400;
+  --color-duo-border: #e5e5e5;
+  --color-duo-dark-border: #37464f;
+}
+
+.font-en {
+  font-family: var(--font-en);
+}
+
+/* Custom scrollbar hiding utility */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Duolingo signature 3D button press feel */
+.duo-button {
+  transition: all 0.1s ease;
+  user-select: none;
+}
+
+.duo-button:active {
+  transform: translateY(3px) !important;
+}
+
+/* Pulsing animated ring for current learning node */
+@keyframes duo-pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(88, 204, 2, 0.5);
+  }
+  70% {
+    box-shadow: 0 0 0 16px rgba(88, 204, 2, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(88, 204, 2, 0);
+  }
+}
+
+.duo-active-node {
+  animation: duo-pulse 2s infinite;
+}

@@ -1,0 +1,726 @@
+[
+  {
+    "id": "reading-a0-my-book",
+    "level": "A0",
+    "topic": "فعل الكينونة",
+    "titleAr": "كتابي الجديد",
+    "titleEn": "My New Book",
+    "textEn": "My name is Adam.\nI am a student.\nI have a book.\nThe book is new.\nI like my book.",
+    "translationAr": "اسمي آدم.\nأنا طالب.\nلدي كتاب.\nالكتاب جديد.\nأحب كتابي.",
+    "sentencePairs": [
+      {
+        "en": "My name is Adam.",
+        "ar": "اسمي آدم."
+      },
+      {
+        "en": "I am a student.",
+        "ar": "أنا طالب."
+      },
+      {
+        "en": "I have a book.",
+        "ar": "لدي كتاب."
+      },
+      {
+        "en": "The book is new.",
+        "ar": "الكتاب جديد."
+      },
+      {
+        "en": "I like my book.",
+        "ar": "أحب كتابي."
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionAr": "من هو آدم؟ (اختر الجملة الصحيحة)",
+        "options": [
+          "I am a student.",
+          "I am a doctor.",
+          "I am a driver.",
+          "I am a teacher."
+        ],
+        "correctIndex": 0,
+        "explanationAr": "النص يقول حرفياً: I am a student أي «أنا طالب»."
+      },
+      {
+        "questionAr": "ما حالة الكتاب؟",
+        "options": [
+          "new",
+          "old",
+          "big",
+          "red"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "The book is new = الكتاب جديد."
+      },
+      {
+        "questionAr": "ماذا يمتلك آدم؟",
+        "options": [
+          "a book",
+          "a car",
+          "a phone",
+          "a pen"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "I have a book = لدي كتاب."
+      }
+    ]
+  },
+  {
+    "id": "reading-a0-my-family",
+    "level": "A0",
+    "topic": "العائلة والأوصاف",
+    "titleAr": "عائلتي الصغيرة",
+    "titleEn": "My Small Family",
+    "textEn": "This is my family.\nMy father is tall.\nMy mother is kind.\nI have one sister.\nHer name is Lina.\nWe eat bread and drink milk.",
+    "translationAr": "هذه عائلتي.\nأبي طويل.\nأمي طيبة.\nلدي أخت واحدة.\nاسمها لينا.\nنأكل الخبز ونشرب الحليب.",
+    "sentencePairs": [
+      {
+        "en": "This is my family.",
+        "ar": "هذه عائلتي."
+      },
+      {
+        "en": "My father is tall.",
+        "ar": "أبي طويل."
+      },
+      {
+        "en": "My mother is kind.",
+        "ar": "أمي طيبة."
+      },
+      {
+        "en": "I have one sister.",
+        "ar": "لدي أخت واحدة."
+      },
+      {
+        "en": "Her name is Lina.",
+        "ar": "اسمها لينا."
+      },
+      {
+        "en": "We eat bread and drink milk.",
+        "ar": "نأكل الخبز ونشرب الحليب."
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionAr": "كيف يكون الأب؟",
+        "options": [
+          "tall",
+          "short",
+          "old",
+          "kind"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "My father is tall = أبي طويل."
+      },
+      {
+        "questionAr": "كم عدد أخوات المتحدث؟",
+        "options": [
+          "one sister",
+          "two sisters",
+          "three sisters",
+          "no sisters"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "I have one sister = لدي أخت واحدة."
+      },
+      {
+        "questionAr": "ماذا نشرب في النص؟",
+        "options": [
+          "milk",
+          "tea",
+          "water",
+          "coffee"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "We drink milk = نشرب الحليب."
+      }
+    ]
+  },
+  {
+    "id": "reading-a0-at-the-shop",
+    "level": "A0",
+    "topic": "عبارات الشراء",
+    "titleAr": "في المتجر",
+    "titleEn": "At the Shop",
+    "textEn": "I am at the shop.\nI want water, please.\nThe water is one dollar.\nI have two dollars.\nI say thank you.\nI go home.",
+    "translationAr": "أنا في المتجر.\nأريد ماءً، من فضلك.\nالماء بدولار واحد.\nلدي دولاران.\nأقول شكراً.\nأذهب إلى البيت.",
+    "sentencePairs": [
+      {
+        "en": "I am at the shop.",
+        "ar": "أنا في المتجر."
+      },
+      {
+        "en": "I want water, please.",
+        "ar": "أريد ماءً، من فضلك."
+      },
+      {
+        "en": "The water is one dollar.",
+        "ar": "الماء بدولار واحد."
+      },
+      {
+        "en": "I have two dollars.",
+        "ar": "لدي دولاران."
+      },
+      {
+        "en": "I say thank you.",
+        "ar": "أقول شكراً."
+      },
+      {
+        "en": "I go home.",
+        "ar": "أذهب إلى البيت."
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionAr": "كم ثمن الماء؟",
+        "options": [
+          "one dollar",
+          "two dollars",
+          "ten dollars",
+          "no dollars"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "The water is one dollar = الماء بدولار واحد."
+      },
+      {
+        "questionAr": "أي كلمة مؤدبة استُخدمت في الطلب؟",
+        "options": [
+          "please",
+          "sorry",
+          "excuse me",
+          "goodbye"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "I want water, please — تُقال عند الطلب للتهذيب."
+      },
+      {
+        "questionAr": "إلى أين يذهب بعد الشراء؟",
+        "options": [
+          "home",
+          "school",
+          "work",
+          "the park"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "I go home = أذهب إلى البيت."
+      }
+    ]
+  },
+  {
+    "id": "reading-a0-first-day",
+    "level": "A0",
+    "topic": "الحياة اليومية",
+    "titleAr": "يومي الأول في المدينة",
+    "titleEn": "My First Day in the City",
+    "textEn": "My name is Sami. I live in a small flat. Every morning I drink tea and eat bread. I walk to the bus stop. The bus is red and slow. I am not afraid, because I have my map.",
+    "translationAr": "اسمي سامي. أعيش في شقة صغيرة. أشرب الشاي وآكل الخبز كل صباح. أمشي إلى موقف الحافلة. الحافلة حمراء وبطيئة. لست خائفاً لأن معي خريطتي.",
+    "sentencePairs": [
+      {
+        "en": "My name is Sami.",
+        "ar": "اسمي سامي."
+      },
+      {
+        "en": "I live in a small flat.",
+        "ar": "أعيش في شقة صغيرة."
+      },
+      {
+        "en": "Every morning I drink tea and eat bread.",
+        "ar": "كل صباح أشرب الشاي وآكل الخبز."
+      },
+      {
+        "en": "I walk to the bus stop.",
+        "ar": "أمشي إلى موقف الحافلة."
+      },
+      {
+        "en": "The bus is red and slow.",
+        "ar": "الحافلة حمراء وبطيئة."
+      },
+      {
+        "en": "I am not afraid, because I have my map.",
+        "ar": "لست خائفاً لأن معي خريطتي."
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionAr": "أين يسكن سامي؟",
+        "options": [
+          "in a small flat",
+          "in a big house",
+          "in a hotel",
+          "in a car"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "الجملة الثانية تقول I live in a small flat."
+      },
+      {
+        "questionAr": "ما لون الحافلة؟",
+        "options": [
+          "red",
+          "blue",
+          "yellow",
+          "green"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "ورد The bus is red and slow."
+      },
+      {
+        "questionAr": "لماذا لا يخاف سامي؟",
+        "options": [
+          "because he has his map",
+          "because he is early",
+          "because he has a friend",
+          "because the bus is slow"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "العلة في last sentence: because I have my map."
+      }
+    ]
+  },
+  {
+    "id": "reading-a1-weekend-plans",
+    "level": "A1",
+    "topic": "weekend routine",
+    "titleAr": "خططة نهاية الأسبوع",
+    "titleEn": "A Simple Weekend Plan",
+    "textEn": "Lina works in a shop from Monday to Friday. On Saturday she wakes up late and calls her sister. They usually drink coffee and talk about their families. On Sunday Lina studies English for thirty minutes because she wants to travel next year.",
+    "translationAr": "تعمل لينا في متجر من الاثنين إلى الجمعة. يوم السبت تستيقظ متأخرة وتتصل بأختها. عادة تشربان القهوة وتتحدثان عن عائلتيهما. يوم الأحد تدرس لينا الإنجليزية ثلاثين دقيقة لأنها تريد السفر العام القادم.",
+    "sentencePairs": [
+      {
+        "en": "Lina works in a shop from Monday to Friday.",
+        "ar": "تعمل لينا في متجر من الاثنين إلى الجمعة."
+      },
+      {
+        "en": "On Saturday she wakes up late and calls her sister.",
+        "ar": "يوم السبت تستيقظ متأخرة وتتصل بأختها."
+      },
+      {
+        "en": "They usually drink coffee and talk about their families.",
+        "ar": "عادة تشربان القهوة وتتحدثان عن عائلتيهما."
+      },
+      {
+        "en": "On Sunday Lina studies English for thirty minutes.",
+        "ar": "يوم الأحد تدرس لينا الإنجليزية ثلاثين دقيقة."
+      },
+      {
+        "en": "She wants to travel next year.",
+        "ar": "تريد السفر العام القادم."
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionAr": "أين تعمل لينا؟",
+        "options": [
+          "in a shop",
+          "in a school",
+          "in a hospital",
+          "in an office"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "الجملة الأولى تحدد مكان العمل."
+      },
+      {
+        "questionAr": "كم من الوقت تدرس الإنجليزية؟",
+        "options": [
+          "thirty minutes",
+          "an hour",
+          "ten minutes",
+          "two hours"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "ورد for thirty minutes."
+      },
+      {
+        "questionAr": "لماذا تدرس اللغة؟",
+        "options": [
+          "because she wants to travel",
+          "because she needs a job",
+          "because her sister asks",
+          "because she works at a shop"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "التعليل بـ because في نهاية النص."
+      }
+    ]
+  },
+  {
+    "id": "reading-a2-market-visit",
+    "level": "A2",
+    "topic": "travel and shopping",
+    "titleAr": "زيارة للسوق القديم",
+    "titleEn": "A Visit to the Old Market",
+    "textEn": "Last month Omar visited the old market with his cousin. They bought two carpets and a copper lamp. At first the seller asked a high price, but Omar waited and came back later. He compared three shops before he decided. In the end he paid less and the seller was still happy, because both of them respected each other.",
+    "translationAr": "زار عمر السوق القديم الشهر الماضي مع ابن عمه. اشتريا سجادتين ومصباحاً نحاسياً. في البداية طلب البائع سعراً مرتفعاً، لكن عمر انتظر وعاد لاحقاً. قارن بين ثلاثة محلات قبل أن يقرر. في النهاية دفع أقل وكان البائع سعيداً، لأن كلاً منهما احترم الآخر.",
+    "sentencePairs": [
+      {
+        "en": "Last month Omar visited the old market with his cousin.",
+        "ar": "زار عمر السوق القديم الشهر الماضي مع ابن عمه."
+      },
+      {
+        "en": "They bought two carpets and a copper lamp.",
+        "ar": "اشتريا سجادتين ومصباحاً نحاسياً."
+      },
+      {
+        "en": "At first the seller asked a high price.",
+        "ar": "في البداية طلب البائع سعراً مرتفعاً."
+      },
+      {
+        "en": "Omar waited and came back later.",
+        "ar": "انتظر عمر وعاد لاحقاً."
+      },
+      {
+        "en": "He compared three shops before he decided.",
+        "ar": "قارن بين ثلاثة محلات قبل أن يقرر."
+      },
+      {
+        "en": "In the end he paid less.",
+        "ar": "في النهاية دفع أقل."
+      }
+    ],
+    "comprehensionQuestions": [
+      {
+        "questionAr": "متى زار عمر السوق؟",
+        "options": [
+          "last month",
+          "last week",
+          "last year",
+          "yesterday"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "آخر شهر؛ صيغة الماضي البسيط مع ظرف زمن."
+      },
+      {
+        "questionAr": "ماذا فعل قبل أن يشتري؟",
+        "options": [
+          "He compared three shops",
+          "He paid the seller",
+          "He called his cousin",
+          "He left the market"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "ورد He compared three shops before he decided."
+      },
+      {
+        "questionAr": "لماذا بقي البائع سعيداً؟",
+        "options": [
+          "because both respected each other",
+          "because Omar paid more",
+          "because the carpets were old",
+          "because he sold the lamp"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "التعليل في الجملة الأخيرة."
+      }
+    ]
+  },
+  {
+    "id": "reading-b1-project-launch",
+    "level": "B1",
+    "topic": "workplace",
+    "titleAr": "إطلاق مشروع صغير",
+    "titleEn": "Launching a Small Project",
+    "textEn": "Our team has been preparing this app since January, and we have already tested it with fifty users. The biggest problem was not the code but the feedback process: people wrote long messages that we could not group. So we built a simple form with three questions, which reduced the workload by half. We had planned to launch in April, but we postponed it because the payment system was not ready. By next Monday we will have fixed it, and the launch will go ahead.",
+    "translationAr": "يعدّ فريقنا هذا التطبيق منذ يناير، وقد اختبرناه بالفعل مع خمسين مستخدماً. لم تكن المشكلة الأكبر في الشيفرة بل في آلية التعليقات: كتب الناس رسائل طويلة لم نستطع تجميعها. فبنينا نموذجاً بسيطاً من ثلاثة أسئلة خفّض العبء إلى النصف. كنا نخطط للإطلاق في أبريل لكننا أجلناه لأن نظام الدفع لم يكن جاهزاً. بحلول الاثنين القادم نكون قد أصلحناه وسيمضي الإطلاق.",
+    "comprehensionQuestions": [
+      {
+        "questionAr": "ما المشكلة الأكبر التي واجهت الفريق؟",
+        "options": [
+          "grouping long user feedback",
+          "writing the code",
+          "hiring designers",
+          "finding users"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "النص ينفي أن تكون المشكلة الكود ويحددها في آلية التعليقات."
+      },
+      {
+        "questionAr": "كيف خُفّض العبء؟",
+        "options": [
+          "by building a three-question form",
+          "by hiring more staff",
+          "by removing the tests",
+          "by delaying the launch"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "النتيجة مرتبطة ببناء النموذج البسيط."
+      },
+      {
+        "questionAr": "لماذا أُجّل الإطلاق؟",
+        "options": [
+          "the payment system was not ready",
+          "the users refused",
+          "the code failed",
+          "April was too early"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "السبب بعد because في الجملة قبل الأخيرة."
+      },
+      {
+        "questionAr": "أي زمن يعبّر عن اكتمال الإصلاح قبل الاثنين؟",
+        "options": [
+          "Future Perfect (will have fixed)",
+          "Past Simple",
+          "Present Simple",
+          "Conditional"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "will have + past participle يدل على اكتمال قبل لحظة مستقبلية."
+      }
+    ],
+    "sentencePairs": [
+      {
+        "en": "Our team has been preparing this app since January, and we have already tested it with fifty users.",
+        "ar": "يعدّ فريقنا هذا التطبيق منذ يناير، وقد اختبرناه بالفعل مع خمسين مستخدماً."
+      },
+      {
+        "en": "The biggest problem was not the code but the feedback process: people wrote long messages that we could not group.",
+        "ar": "لم تكن المشكلة الأكبر في الشيفرة بل في آلية التعليقات: كتب الناس رسائل طويلة لم نستطع تجميعها."
+      },
+      {
+        "en": "So we built a simple form with three questions, which reduced the workload by half.",
+        "ar": "فبنينا نموذجاً بسيطاً من ثلاثة أسئلة خفّض العبء إلى النصف."
+      },
+      {
+        "en": "We had planned to launch in April, but we postponed it because the payment system was not ready.",
+        "ar": "كنا نخطط للإطلاق في أبريل لكننا أجلناه لأن نظام الدفع لم يكن جاهزاً."
+      },
+      {
+        "en": "By next Monday we will have fixed it, and the launch will go ahead.",
+        "ar": "بحلول الاثنين القادم نكون قد أصلحناه وسيمضي الإطلاق."
+      }
+    ]
+  },
+  {
+    "id": "reading-b2-remote-work",
+    "level": "B2",
+    "topic": "business analysis",
+    "titleAr": "العمل عن بعد: ميزان غير واضح",
+    "titleEn": "Remote Work: An Unclear Balance Sheet",
+    "textEn": "Although remote work was introduced as an emergency measure, it has reshaped how companies cost their offices. Employees save commuting time, yet managers argue that informal mentoring has suffered. Were the data on productivity the only criterion, most firms would have gone fully remote by now. What makes the picture more complex is that the benefits are unevenly distributed: senior staff, who already hold strong networks, gain visibility, whereas junior employees, who relied on proximity to learn, often stall. Had onboarding been redesigned at the outset, the gap might have been narrower. The lesson is not that remote work fails, but that any policy which changes the place of work also changes the structure of opportunity.",
+    "translationAr": "رغم أن العمل عن بُعد أُقرّ كإجراء طارئ، فقد أعاد تشكيل طريقة احتساب الشركات لتكاليف مكاتبها. الموظفون يوفرون وقت التنقل، لكن المديرين يجادلون بأن الإرشاد غير الرسمي تضرر. لو كانت بيانات الإنتاجية هي المعيار الوحيد لانتقلت معظم الشركات إلى النموذج الكامل الآن. وما يعقّد الصورة أن المنافع موزعة بالتفاوت: فالكوادر العليا، التي تملك شبكات قوية، تكسب ظهوراً، بينما الموظفون الجدد الذين اعتمدوا على القرب للتعلم يتعثرون غالباً. لو أُعيد تصميم الاستقدام من البداية لكان الفارق أضيق. الدرس ليس أن العمل عن بُعد يفشل، بل إن أي سياسة تغيّر مكان العمل تغيّر بنية الفرصة.",
+    "comprehensionQuestions": [
+      {
+        "questionAr": "أي حجة يوردها المديرون ضد النموذج؟",
+        "options": [
+          "تضرر الإرشاد غير الرسمي",
+          "ارتفاع الإيجارات",
+          "نقص الأدوات الرقمية",
+          "انخفاض الأجور"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "قابلة managers argue مقترنة بـ informal mentoring has suffered."
+      },
+      {
+        "questionAr": "من المستفيد الأكبر بحسب النص؟",
+        "options": [
+          "الكوادر العليا ذات الشبكات القائمة",
+          "الموظفون الجدد",
+          "العملاء",
+          "الموردون"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "التفاوت في توزيع المنافع يصبّ لصالح senior staff."
+      },
+      {
+        "questionAr": "ما وظيفة التركيب Had onboarding been redesigned?",
+        "options": [
+          "افتراض عن ماضٍ لم يقع",
+          "سؤال مباشر",
+          "وصف عادة مستقبلية",
+          "تأكيد حقيقة حاضرة"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "القلب النحوي للشرط الثالث يفترض ماضيًا مخالفاً للواقع."
+      },
+      {
+        "questionAr": "ما الخلاصة المركزية؟",
+        "options": [
+          "سياسة مكان العمل تعيد توزيع الفرصة",
+          "العمل عن بُعد فشل",
+          "الإنتاجية ارتفعت للجميع",
+          "على الشركات بيع مكاتبها"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "الجملة الختامية تنفي الفشل وتؤكد أثر البنية."
+      }
+    ],
+    "sentencePairs": [
+      {
+        "en": "Although remote work was introduced as an emergency measure, it has reshaped how companies cost their offices.",
+        "ar": "رغم أن العمل عن بُعد أُقرّ كإجراء طارئ، فقد أعاد تشكيل طريقة احتساب الشركات لتكاليف مكاتبها."
+      },
+      {
+        "en": "Employees save commuting time, yet managers argue that informal mentoring has suffered.",
+        "ar": "الموظفون يوفرون وقت التنقل، لكن المديرين يجادلون بأن الإرشاد غير الرسمي تضرر."
+      },
+      {
+        "en": "Were the data on productivity the only criterion, most firms would have gone fully remote by now.",
+        "ar": "لو كانت بيانات الإنتاجية هي المعيار الوحيد لانتقلت معظم الشركات إلى النموذج الكامل الآن."
+      },
+      {
+        "en": "What makes the picture more complex is that the benefits are unevenly distributed.",
+        "ar": "وما يعقّد الصورة أن المنافع موزعة بالتفاوت."
+      },
+      {
+        "en": "Senior staff gain visibility, whereas junior employees often stall.",
+        "ar": "فالكوادر العليا تكسب ظهوراً، بينما الموظفون الجدد يتعثرون غالباً."
+      },
+      {
+        "en": "The lesson is that any policy which changes the place of work also changes the structure of opportunity.",
+        "ar": "الدرس هو أن أي سياسة تغيّر مكان العمل تغيّر بنية الفرصة."
+      }
+    ]
+  },
+  {
+    "id": "reading-c1-hedging",
+    "level": "C1",
+    "topic": "academic writing",
+    "titleAr": "التحفّظ الأكاديمي ومسؤولية الادعاء",
+    "titleEn": "Hedging and the Ethics of Claims",
+    "textEn": "Academic prose is judged less by its confidence than by its calibration. A study which asserts that an intervention eliminates a behaviour invites a replication that will almost certainly qualify it; a study which reports that the effect was observed in this sample, under these conditions, retains its standing even when later work narrows the estimate. This is not rhetorical cowardice. Hedging transfers responsibility for interpretation from the reader back to the author, who is the only party that has seen the raw variance. It is worth noting, however, that excessive qualification carries its own cost: reviewers tend to read a heavily hedged abstract as a signal that the authors themselves doubt the result, and funding bodies are no exception. The skilled writer therefore hedges the inference, never the observation.",
+    "translationAr": "يُقويم النثر الأكاديمي بقدر معايرته أكثر مما يُقويم بثقته. فالدراسة التي تجزم بأن تدخلاً يقضي على سلوك ما تستدعي إعادة تحقق ستُقيّد نتيجة حتماً؛ أما الدراسة التي تفيد بأن الأثر لُوحظ في هذه العينة وفي هذه الظروف فتحفظ مكانتها حتى لو ضيّقت الأعمال اللاحقة التقدير. وهذا ليس جبناً بلاغياً، بل التحفظ ينقل مسؤولية التفسير من القارئ إلى المؤلف، وهو الطرف الوحيد الذي رأى التباين الخام. ومع ذلك يجدر بالذكر أن الإفراط في التحجيز له كلفته: فالمحكومين يميلون إلى قراءة الملخص المفرط التحفظ بوصفه إشارة إلى شك المؤلفين أنفسهم، وجهات التمويل ليست استثناء. لذلك يحفظ الكاتب الماهر الاستنتاج لا الملاحظة.",
+    "comprehensionQuestions": [
+      {
+        "questionAr": "ما المعيار الأعلى للحكم على النثر الأكاديمي؟",
+        "options": [
+          "معايرة الادعاء",
+          "ثقة الكاتب",
+          "حجم العينة",
+          "عدد الاقتباسات"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "الافتتاحية تقابل الثقة بالمعايرة وترجّح الثانية."
+      },
+      {
+        "questionAr": "ما الذي ينقله التحفظ إلى المؤلف؟",
+        "options": [
+          "مسؤولية التفسير",
+          "مسؤولية التمويل",
+          "مسؤولية النشر",
+          "مسؤولية إعادة التحقق"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "الجملة الرابعة تحدد وظيفة hedging."
+      },
+      {
+        "questionAr": "ما كلفة الإفراط في التحفظ؟",
+        "options": [
+          "يُقرأ كدليل على شك المؤلفين",
+          "يُبطئ التحكيم",
+          "يزيد الطول فقط",
+          "يمنع الاقتباس"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "it is worth noting مقدمة للكلفة."
+      },
+      {
+        "questionAr": "ما القاعدة الختامية للكاتب الماهر؟",
+        "options": [
+          "التحفظ على الاستنتاج لا الملاحظة",
+          "التحفظ على كل عبارة",
+          "حذف التحفظ كلياً",
+          "تفويض التحفظ للمحكم"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "الجملة الأخيرة تلخص القاعدة."
+      }
+    ],
+    "sentencePairs": [
+      {
+        "en": "Academic prose is judged less by its confidence than by its calibration.",
+        "ar": "يُقوّم النثر الأكاديمي بقدر معايرته أكثر مما يُقوّم بثقته."
+      },
+      {
+        "en": "A study which asserts that an intervention eliminates a behaviour invites a replication that will almost certainly qualify it.",
+        "ar": "فالدراسة التي تجزم بأن تدخلاً يقضي على سلوك ما تستدعي إعادة تحقق ستُقيّد النتيجة حتماً."
+      },
+      {
+        "en": "This is not rhetorical cowardice.",
+        "ar": "وهذا ليس جبناً بلاغياً."
+      },
+      {
+        "en": "Hedging transfers responsibility for interpretation from the reader back to the author.",
+        "ar": "بل التحفظ ينقل مسؤولية التفسير من القارئ إلى المؤلف."
+      },
+      {
+        "en": "The skilled writer therefore hedges the inference, never the observation.",
+        "ar": "لذلك يحفظ الكاتب الماهر الاستنتاج لا الملاحظة."
+      }
+    ]
+  },
+  {
+    "id": "reading-c2-chiasmus",
+    "level": "C2",
+    "topic": "rhetoric",
+    "titleAr": "القلب المتقاطع وإيقاع الحجة",
+    "titleEn": "Chiasmus and the Rhythm of Argument",
+    "textEn": "Chiasmus is not ornament; it is a form of thought. When a phrase folds upon itself — never for a friend, a friend for ever — the reader is made to arrive and return by different roads, and the meaning that survives the crossing is larger than either half. Oratory that abandons this figure loses more than music: it loses the capacity to say two things at once without contradiction. Prose of the highest register keeps the turn hidden, arriving at it as though by accident, whereas the inferior stylist announces the symmetry and thereby spends it. There is a further, quieter risk. Because the figure insists that the second clause answer the first, it can commit a speaker to a neatness the world does not offer; the balanced sentence becomes a promise that experience will not honour.",
+    "translationAr": "القلب المتقاطع ليس زينة بل نمطاً من أنماط الفكر. فحين تلتف العبارة على نفسها — لا للصديق مطلقاً، بل للصديق دائماً — يُجعل القارئ يصل ويرجع بطرق مختلفة، ويبقى المعبر عن الالتقاء أكبر من كل شقّ. والخطابة التي تهجر هذه البديعة تفقد أكثر من الموسيقا: تفقد القدرة على قول شيئين دفعة واحدة بلا تناقض. أما النثر الأرفع فيخفي الالتفاف ويأتي كأنه بالصدفة، بينما المُقلّد يُعلن التماثل فينفق رصيده. وثمة خطر أخفت: لأن البديعة تلزم الشقّ الثاني بالردّ على الأول، قد تلزم المتكلم بترتيب لا يعيه العالم، فتغدو الجملة المتوازنة وعداً لا يفي به الواقع.",
+    "comprehensionQuestions": [
+      {
+        "questionAr": "كيف يصف النص القلب المتقاطع في بدايته؟",
+        "options": [
+          "نمطاً من أنماط الفكر لا زينة",
+          "زينة صوتية",
+          "خطأً بلاغياً",
+          "قاعدة نحوية"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "الافتتاحية تنفي كونه ornament."
+      },
+      {
+        "questionAr": "ما الذي تفقده الخطابة بتركه؟",
+        "options": [
+          "قول شيئين دفعة بلا تناقض",
+          "طول الخطبة",
+          "الأرقام",
+          "الاقتباسات"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "أبعد من الموسيقا: القدرة على الجمع بلا تناقض."
+      },
+      {
+        "questionAr": "ما الفرق بين الأسلوب الرفيع والمُقلّد؟",
+        "options": [
+          "الرفيع يخفي الالتفاف والمُقلّد يعلنه",
+          "كلاهما يعلنه",
+          "الرفيع يتجنبه",
+          "المُقلّد يخفيه"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "المقابلة في الجملة الثالثة."
+      },
+      {
+        "questionAr": "ما خطر البديعة الذي يختتم به الكاتب؟",
+        "options": [
+          "الالتزام بترتيب لا يمنحه العالم",
+          "إرباك القارئ",
+          "إطالة النص",
+          "إضعاف الحجة بالأرقام"
+        ],
+        "correctIndex": 0,
+        "explanationAr": "the quieter risk في الخاتمة."
+      }
+    ],
+    "sentencePairs": [
+      {
+        "en": "Chiasmus is not ornament; it is a form of thought.",
+        "ar": "القلب المتقاطع ليس زينة بل نمطاً من أنماط الفكر."
+      },
+      {
+        "en": "When a phrase folds upon itself, the reader is made to arrive and return by different roads.",
+        "ar": "حين تلتف العبارة على نفسها، يُجعل القارئ يصل ويرجع بطرق مختلفة."
+      },
+      {
+        "en": "Oratory that abandons this figure loses the capacity to say two things at once without contradiction.",
+        "ar": "والخطابة التي تهجر هذه البديعة تفقد القدرة على قول شيئين دفعة واحدة بلا تناقض."
+      },
+      {
+        "en": "Prose of the highest register keeps the turn hidden, arriving at it as though by accident.",
+        "ar": "أما النثر الأرفع فيخفي الالتفاف ويأتي كأنه بالصدفة."
+      },
+      {
+        "en": "The balanced sentence becomes a promise that experience will not honour.",
+        "ar": "فتغدو الجملة المتوازنة وعداً لا يفي به الواقع."
+      }
+    ]
+  }
+]

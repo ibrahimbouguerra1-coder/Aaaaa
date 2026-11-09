@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "skill": "grammar",
+    "level": "A1",
+    "questionAr": "اختر تصريف فعل الكينونة المناسب:",
+    "sentenceEn": "Where ___ you from?",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 2,
+    "skill": "vocabulary",
+    "level": "A2",
+    "questionAr": "اختر الكلمة المتلازمة مع mistake:",
+    "sentenceEn": "Don't worry, everyone ___ mistakes when learning.",
+    "options": [
+      "does",
+      "makes",
+      "takes",
+      "gives"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 3,
+    "skill": "grammar",
+    "level": "B1",
+    "questionAr": "اختر الزمن المناسب لحدث ممتد من الماضي للحاضر:",
+    "sentenceEn": "I ___ at this company for five years now.",
+    "options": [
+      "work",
+      "worked",
+      "have worked",
+      "am working"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 4,
+    "skill": "grammar",
+    "level": "B2",
+    "questionAr": "اختر التركيب الشرطي الثاني الافتراضي:",
+    "sentenceEn": "If I ___ in your position, I would negotiate.",
+    "options": [
+      "am",
+      "was to",
+      "were",
+      "had been"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 5,
+    "skill": "grammar",
+    "level": "C1",
+    "questionAr": "اختر صيغة القلب النحوي بعد عبارة النفي Not only:",
+    "sentenceEn": "Not only ___ the target, but they also cut costs.",
+    "options": [
+      "did they meet",
+      "they met",
+      "they did meet",
+      "had they met"
+    ],
+    "correctIndex": 0
+  }
+]

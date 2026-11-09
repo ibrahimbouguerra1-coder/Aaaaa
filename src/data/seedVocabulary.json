@@ -1,0 +1,411 @@
+[
+  {
+    "id": "seed-vocab-0",
+    "word": "water",
+    "ipa": "/ˈwɔː.tɚ/",
+    "arabicPhonetic": "وَوْتَر",
+    "partOfSpeech": "noun",
+    "arabicMeaning": "ماء",
+    "englishDefinition": "the clear liquid we drink",
+    "exampleEn": "I drink water every morning.",
+    "exampleAr": "أشرب الماء كل صباح.",
+    "collocations": [
+      "a glass of water",
+      "drinking water"
+    ],
+    "level": "A0",
+    "category": "اليوميات",
+    "arabicMistakeWarning": "حرف W هنا صوت /w/ وليس حرفاً صامتاً.",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.533Z"
+  },
+  {
+    "id": "seed-vocab-1",
+    "word": "three",
+    "ipa": "/θriː/",
+    "arabicPhonetic": "ثْري",
+    "partOfSpeech": "number",
+    "arabicMeaning": "ثلاثة",
+    "englishDefinition": "the number 3",
+    "exampleEn": "I have three brothers.",
+    "exampleAr": "لدي ثلاثة إخوة.",
+    "collocations": [
+      "three times",
+      "all three"
+    ],
+    "level": "A0",
+    "category": "الأرقام",
+    "arabicMistakeWarning": "TH بصوت ث /θ/ وليس تاء.",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-2",
+    "word": "think",
+    "ipa": "/θɪŋk/",
+    "arabicPhonetic": "ثِنْك",
+    "partOfSpeech": "verb",
+    "arabicMeaning": "يفكّر",
+    "englishDefinition": "to use your mind",
+    "exampleEn": "I think this plan works.",
+    "exampleAr": "أظن أن هذه الخطة تنجح.",
+    "collocations": [
+      "think about",
+      "think that"
+    ],
+    "level": "A0",
+    "category": "أفعال أساسية",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-3",
+    "word": "park",
+    "ipa": "/pɑːrk/",
+    "arabicPhonetic": "پارك",
+    "partOfSpeech": "verb",
+    "arabicMeaning": "يوقف السيارة",
+    "englishDefinition": "to leave a vehicle in place",
+    "exampleEn": "Do not park here.",
+    "exampleAr": "لا توقف السيارة هنا.",
+    "collocations": [
+      "park the car",
+      "no parking"
+    ],
+    "level": "A0",
+    "category": "الصوتيات",
+    "arabicMistakeWarning": "ابدأ الصوت بهواء نفاث /p/ وإلا صارت bark.",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-4",
+    "word": "book",
+    "ipa": "/bʊk/",
+    "arabicPhonetic": "بُك",
+    "partOfSpeech": "noun",
+    "arabicMeaning": "كتاب",
+    "englishDefinition": "a set of printed pages",
+    "exampleEn": "This book is short.",
+    "exampleAr": "هذا الكتاب قصير.",
+    "collocations": [
+      "read a book",
+      "book a seat"
+    ],
+    "level": "A0",
+    "category": "الصوتيات",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-5",
+    "word": "family",
+    "ipa": "/ˈfæm.əl.i/",
+    "arabicPhonetic": "فَامِلِي",
+    "partOfSpeech": "noun",
+    "arabicMeaning": "عائلة",
+    "englishDefinition": "parents and their children",
+    "exampleEn": "My family lives in Amman.",
+    "exampleAr": "تسكن عائلتي في عمّان.",
+    "collocations": [
+      "family member",
+      "close family"
+    ],
+    "level": "A0",
+    "category": "اليوميات",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-6",
+    "word": "hello",
+    "ipa": "/həˈloʊ/",
+    "arabicPhonetic": "هَلْوُو",
+    "partOfSpeech": "noun",
+    "arabicMeaning": "مرحباً",
+    "exampleEn": "Hello, I am Sara.",
+    "exampleAr": "مرحباً، أنا سارة.",
+    "collocations": [
+      "say hello",
+      "hello there"
+    ],
+    "level": "A0",
+    "category": "التحيات",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-7",
+    "word": "name",
+    "ipa": "/neɪm/",
+    "arabicPhonetic": "نَيْم",
+    "partOfSpeech": "noun",
+    "arabicMeaning": "اسم",
+    "exampleEn": "My name is Omar.",
+    "exampleAr": "اسمي عمر.",
+    "collocations": [
+      "my name is",
+      "first name"
+    ],
+    "level": "A0",
+    "category": "التحيات",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-8",
+    "word": "bread",
+    "ipa": "/bred/",
+    "arabicPhonetic": "بْرِد",
+    "partOfSpeech": "noun",
+    "arabicMeaning": "خبز",
+    "exampleEn": "I eat bread and cheese.",
+    "exampleAr": "آكل الخبز والجبن.",
+    "collocations": [
+      "a loaf of bread",
+      "bread and butter"
+    ],
+    "level": "A0",
+    "category": "الطعام",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-9",
+    "word": "house",
+    "ipa": "/haʊs/",
+    "arabicPhonetic": "هاوْس",
+    "partOfSpeech": "noun",
+    "arabicMeaning": "بيت",
+    "exampleEn": "Our house is small.",
+    "exampleAr": "بيتنا صغير.",
+    "collocations": [
+      "at house",
+      "a new house"
+    ],
+    "level": "A0",
+    "category": "أماكن",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-10",
+    "word": "school",
+    "ipa": "/skuːl/",
+    "arabicPhonetic": "سْكُول",
+    "partOfSpeech": "noun",
+    "arabicMeaning": "مدرسة",
+    "exampleEn": "The school is near my house.",
+    "exampleAr": "المدرسة قريبة من بيتي.",
+    "collocations": [
+      "go to school",
+      "school bus"
+    ],
+    "level": "A0",
+    "category": "أماكن",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-11",
+    "word": "teacher",
+    "ipa": "/ˈtiː.tʃɚ/",
+    "arabicPhonetic": "تِيتْشِر",
+    "partOfSpeech": "noun",
+    "arabicMeaning": "معلّم",
+    "exampleEn": "My teacher is kind.",
+    "exampleAr": "معلّمي طيّب.",
+    "collocations": [
+      "English teacher",
+      "my teacher"
+    ],
+    "level": "A0",
+    "category": "أناس",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-12",
+    "word": "friend",
+    "ipa": "/frend/",
+    "arabicPhonetic": "فْرِينْد",
+    "partOfSpeech": "noun",
+    "arabicMeaning": "صديق",
+    "exampleEn": "He is my good friend.",
+    "exampleAr": "هو صديقي الطيّب.",
+    "collocations": [
+      "make friends",
+      "good friend"
+    ],
+    "level": "A0",
+    "category": "أناس",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-13",
+    "word": "big",
+    "ipa": "/bɪɡ/",
+    "arabicPhonetic": "بِغ",
+    "partOfSpeech": "adjective",
+    "arabicMeaning": "كبير",
+    "exampleEn": "The city is big.",
+    "exampleAr": "المدينة كبيرة.",
+    "collocations": [
+      "a big house",
+      "big or small"
+    ],
+    "level": "A0",
+    "category": "أوصاف",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-14",
+    "word": "small",
+    "ipa": "/smɔːl/",
+    "arabicPhonetic": "سْمُول",
+    "partOfSpeech": "adjective",
+    "arabicMeaning": "صغير",
+    "exampleEn": "The room is small.",
+    "exampleAr": "الغرفة صغيرة.",
+    "collocations": [
+      "a small book",
+      "small and cheap"
+    ],
+    "level": "A0",
+    "category": "أوصاف",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-15",
+    "word": "red",
+    "ipa": "/red/",
+    "arabicPhonetic": "رِيد",
+    "partOfSpeech": "adjective",
+    "arabicMeaning": "أحمر",
+    "exampleEn": "The bus is red.",
+    "exampleAr": "الحافلة حمراء.",
+    "collocations": [
+      "red and blue",
+      "a red car"
+    ],
+    "level": "A0",
+    "category": "الألوان",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-16",
+    "word": "one",
+    "ipa": "/wʌn/",
+    "arabicPhonetic": "وَن",
+    "partOfSpeech": "number",
+    "arabicMeaning": "واحد",
+    "exampleEn": "I have one sister.",
+    "exampleAr": "لدي أخت واحدة.",
+    "collocations": [
+      "one dollar",
+      "number one"
+    ],
+    "level": "A0",
+    "category": "الأرقام",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-17",
+    "word": "thank you",
+    "ipa": "/θæŋk juː/",
+    "arabicPhonetic": "ثَاَنْك يو",
+    "partOfSpeech": "phrase",
+    "arabicMeaning": "شكراً",
+    "exampleEn": "Thank you, my friend.",
+    "exampleAr": "شكراً يا صديقي.",
+    "collocations": [
+      "thank you very much"
+    ],
+    "level": "A0",
+    "category": "التهذيب",
+    "arabicMistakeWarning": "TH مثل الثاء في «ثَمَر».",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-18",
+    "word": "please",
+    "ipa": "/pliːz/",
+    "arabicPhonetic": "بْليز",
+    "partOfSpeech": "phrase",
+    "arabicMeaning": "من فضلك",
+    "exampleEn": "Water, please.",
+    "exampleAr": "ماءٌ، من فضلك.",
+    "collocations": [
+      "yes please",
+      "please wait"
+    ],
+    "level": "A0",
+    "category": "التهذيب",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  },
+  {
+    "id": "seed-vocab-19",
+    "word": "eat",
+    "ipa": "/iːt/",
+    "arabicPhonetic": "إِيت",
+    "partOfSpeech": "verb",
+    "arabicMeaning": "يأكل",
+    "exampleEn": "I eat bread at home.",
+    "exampleAr": "آكل الخبز في البيت.",
+    "collocations": [
+      "eat breakfast",
+      "eat with friends"
+    ],
+    "level": "A0",
+    "category": "أفعال أساسية",
+    "repetitions": 0,
+    "intervalDays": 1,
+    "mastered": false,
+    "nextReviewDate": "2026-10-25T23:29:48.534Z"
+  }
+]

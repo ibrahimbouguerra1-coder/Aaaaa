@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mistake-seed-1",
+    "original": "I am agree with your opinion.",
+    "corrected": "I agree with your opinion.",
+    "naturalAlternative": "I completely agree with your point.",
+    "errorTypeAr": "فعل الكينونة الزائد مع agree",
+    "explanationAr": "الفعل agree فعل صريح في الإنجليزية ولا يحتاج إلى فعل الكينونة am قبله.",
+    "source": "المحادثة الذكية",
+    "createdAt": "2026-10-25T23:19:33.589Z"
+  }
+]

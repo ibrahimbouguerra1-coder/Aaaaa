@@ -1,0 +1,498 @@
+[
+  {
+    "id": "sb-a0-1",
+    "level": "A0",
+    "promptAr": "رتّب جملة التعريف بالنفس",
+    "grammarFocusAr": "فعل الكينونة am مع الضمير I",
+    "wordTiles": [
+      "student",
+      "I",
+      "a",
+      "am"
+    ],
+    "correctSentence": "I am a student",
+    "explanationAr": "الترتيب: الضمير I ثم am ثم a student. لا يُحذف فعل الكينونة في الإنجليزية."
+  },
+  {
+    "id": "sb-a0-2",
+    "level": "A0",
+    "promptAr": "رتّب جملة عن عادة يومية",
+    "grammarFocusAr": "الجمع بين الفاعل والمفعول وظرف الزمن",
+    "wordTiles": [
+      "tea",
+      "She",
+      "every",
+      "drinks",
+      "morning"
+    ],
+    "correctSentence": "She drinks tea every morning",
+    "explanationAr": "الفعل يضاف له s مع مفرد الغائب: drinks. وظرف الزمن يأتي في آخر الجملة."
+  },
+  {
+    "id": "sb-a0-3",
+    "level": "A0",
+    "promptAr": "رتّب جملة بلدك",
+    "grammarFocusAr": "am مع من (from)",
+    "wordTiles": [
+      "from",
+      "I",
+      "Saudi",
+      "am",
+      "Arabia"
+    ],
+    "correctSentence": "I am from Saudi Arabia",
+    "explanationAr": "الترتيب: I + am + from + اسم البلد. حرف الجر from لازم ولا يُحذف."
+  },
+  {
+    "id": "sb-a0-4",
+    "level": "A0",
+    "promptAr": "رتّب جملة عن معلّمتك",
+    "grammarFocusAr": "is مع مفرد الغائب + my",
+    "wordTiles": [
+      "is",
+      "She",
+      "my",
+      "teacher"
+    ],
+    "correctSentence": "She is my teacher",
+    "explanationAr": "She + is + my teacher. لا نضع a بعد my لأن اسم الملكية يمنع أداة النكرة."
+  },
+  {
+    "id": "sb-a0-5",
+    "level": "A0",
+    "promptAr": "رتّب جملة نفي قصيرة",
+    "grammarFocusAr": "النفي بـ is not",
+    "wordTiles": [
+      "not",
+      "He",
+      "is",
+      "tall"
+    ],
+    "correctSentence": "He is not tall",
+    "explanationAr": "في النفي يأتي not بعد is مباشرة: is not tall. ولا يُقال He no tall."
+  },
+  {
+    "id": "sb-a0-6",
+    "level": "A0",
+    "promptAr": "رتّب جملة الملكية مع عدد",
+    "grammarFocusAr": "have مع we + العدد",
+    "wordTiles": [
+      "have",
+      "We",
+      "two",
+      "books"
+    ],
+    "correctSentence": "We have two books",
+    "explanationAr": "We + have + two + books. الجمع books لأن العدد أكثر من واحد."
+  },
+  {
+    "id": "sb-a0-7",
+    "level": "A0",
+    "promptAr": "رتّب سؤالاً عن الاسم",
+    "grammarFocusAr": "سؤال بـ Is في البداية",
+    "wordTiles": [
+      "your",
+      "Is",
+      "name",
+      "Ahmed"
+    ],
+    "correctSentence": "Is your name Ahmed",
+    "explanationAr": "السؤال يبدأ بـ Is ثم بقية الجملة: Is your name Ahmed?"
+  },
+  {
+    "id": "sb-a0-8",
+    "level": "A0",
+    "promptAr": "رتّب سؤال «ما هذا؟»",
+    "grammarFocusAr": "أداة السؤال What + is",
+    "wordTiles": [
+      "What",
+      "is",
+      "this"
+    ],
+    "correctSentence": "What is this",
+    "explanationAr": "What + is + this. أداة السؤال تأتي دائماً في أول الجملة."
+  },
+  {
+    "id": "sb-a0-9",
+    "level": "A0",
+    "promptAr": "رتّب جملة مكانية بحرف جر",
+    "grammarFocusAr": "a/an + on + the",
+    "wordTiles": [
+      "is",
+      "A",
+      "on",
+      "cat",
+      "the",
+      "table"
+    ],
+    "correctSentence": "A cat is on the table",
+    "explanationAr": "A cat + is + on the table. حرف الجر on يعني «فوق» ولا ينفصل عن the table."
+  },
+  {
+    "id": "sb-a0-10",
+    "level": "A0",
+    "promptAr": "رتّب جملة عن عادة مع الوقت",
+    "grammarFocusAr": "in the morning",
+    "wordTiles": [
+      "morning",
+      "I",
+      "the",
+      "drink",
+      "in",
+      "milk"
+    ],
+    "correctSentence": "I drink milk in the morning",
+    "explanationAr": "I + drink + milk + in the morning. نقول in the morning وليس on the morning."
+  },
+  {
+    "id": "sb-a0-11",
+    "level": "A0",
+    "promptAr": "رتّب جملة الإشارة مع اللون",
+    "grammarFocusAr": "This is a + صفة + اسم",
+    "wordTiles": [
+      "is",
+      "This",
+      "pen",
+      "a",
+      "red"
+    ],
+    "correctSentence": "This is a red pen",
+    "explanationAr": "This is + a + red + pen. الصفة تأتي قبل الاسم مباشرة في الإنجليزية."
+  },
+  {
+    "id": "sb-a0-12",
+    "level": "A0",
+    "promptAr": "رتّب سؤالاً مهذباً عن غرض",
+    "grammarFocusAr": "سؤال بـ Do you have",
+    "wordTiles": [
+      "you",
+      "Do",
+      "pen",
+      "have",
+      "a"
+    ],
+    "correctSentence": "Do you have a pen",
+    "explanationAr": "Do + you + have + a pen. نستخدم Do للسؤال مع I/you/we/they."
+  },
+  {
+    "id": "sb-a1-1",
+    "level": "A1",
+    "promptAr": "رتّب جملة عن وسيلة المواصلات",
+    "grammarFocusAr": "حرف الجر by مع وسائل النقل",
+    "wordTiles": [
+      "by",
+      "He",
+      "work",
+      "to",
+      "goes",
+      "bus"
+    ],
+    "correctSentence": "He goes to work by bus",
+    "explanationAr": "goes to work ثم by bus بلا أداة تعريف قبل وسيلة النقل."
+  },
+  {
+    "id": "sb-a1-2",
+    "level": "A1",
+    "promptAr": "رتّب جملة نفي في المضارع البسيط",
+    "grammarFocusAr": "نفي الفعل الصريح بـ do not",
+    "wordTiles": [
+      "time",
+      "We",
+      "do",
+      "today",
+      "not",
+      "have"
+    ],
+    "correctSentence": "We do not have time today",
+    "explanationAr": "النفي do not ثم الفعل المجرّد have، ولا يُقال We have not time في العامية الأمريكية."
+  },
+  {
+    "id": "sb-a1-3",
+    "level": "A1",
+    "promptAr": "رتّب سؤالاً بم كلمة الاستفهام",
+    "grammarFocusAr": "قلب السؤال مع does",
+    "wordTiles": [
+      "Where",
+      "she",
+      "does",
+      "work",
+      "your",
+      "sister"
+    ],
+    "correctSentence": "Where does your sister work",
+    "explanationAr": "أداة السؤال ثم does ثم الفاعل ثم الفعل المجرّد work."
+  },
+  {
+    "id": "sb-a2-1",
+    "level": "A2",
+    "promptAr": "رتّب جملة في الماضي البسيط",
+    "grammarFocusAr": "الفعل الشاذة go في الماضي مع ظرف زمن",
+    "wordTiles": [
+      "yesterday",
+      "They",
+      "the",
+      "went",
+      "to",
+      "market"
+    ],
+    "correctSentence": "They went to the market yesterday",
+    "explanationAr": "الماضي went لا يسبقه did، وظرف yesterday في آخر الجملة."
+  },
+  {
+    "id": "sb-a2-2",
+    "level": "A2",
+    "promptAr": "رتّب جملة مقارنة",
+    "grammarFocusAr": "صيغة المقارنة with than",
+    "wordTiles": [
+      "heavier",
+      "This",
+      "one",
+      "than",
+      "is",
+      "box",
+      "that"
+    ],
+    "correctSentence": "This box is heavier than that one",
+    "explanationAr": "الصفة القصيرة تأخذ er ثم than، ولا تُقال more heavier."
+  },
+  {
+    "id": "sb-a2-3",
+    "level": "A2",
+    "promptAr": "رتّب جملة بحرف جر ثابت",
+    "grammarFocusAr": "interested followed by in",
+    "wordTiles": [
+      "is",
+      "He",
+      "in",
+      "design",
+      "very",
+      "interested"
+    ],
+    "correctSentence": "He is very interested in design",
+    "explanationAr": "الصيغة الثابتة interested in وليس interested on أو for."
+  },
+  {
+    "id": "sb-b1-1",
+    "level": "B1",
+    "promptAr": "رتّب جملة بالمضارع التام",
+    "grammarFocusAr": "المضارع التام مع for للفترة الممتدة",
+    "wordTiles": [
+      "for",
+      "I",
+      "here",
+      "years",
+      "have",
+      "five",
+      "worked"
+    ],
+    "correctSentence": "I have worked here for five years",
+    "explanationAr": "have + التصريف الثالث، وfor مع مدة لا مع نقطة زمنية."
+  },
+  {
+    "id": "sb-b1-2",
+    "level": "B1",
+    "promptAr": "رتّب جملة شرطية من النوع الأول",
+    "grammarFocusAr": "الشرط الأول: المضارع بعد if والفعل will في الجواب",
+    "wordTiles": [
+      "will",
+      "If",
+      "inside",
+      "stay",
+      "it",
+      "we",
+      "rains"
+    ],
+    "correctSentence": "If it rains we will stay inside",
+    "explanationAr": "لا يُستعمل will بعد if مباشرة في الشرط الحقيقي."
+  },
+  {
+    "id": "sb-b1-3",
+    "level": "B1",
+    "promptAr": "رتّب جملة بالفعل المركب",
+    "grammarFocusAr": "put off بمعنى يؤجّل",
+    "wordTiles": [
+      "had",
+      "They",
+      "off",
+      "to",
+      "the",
+      "launch",
+      "put"
+    ],
+    "correctSentence": "They had to put off the launch",
+    "explanationAr": "put off فعل مركب يعني يؤجّل، ويتصل بالمفعول بعده مباشرة."
+  },
+  {
+    "id": "sb-b2-1",
+    "level": "B2",
+    "promptAr": "رتّب اقتراحاً مهنياً",
+    "grammarFocusAr": "suggest + gerund",
+    "wordTiles": [
+      "until",
+      "She",
+      "the",
+      "postponing",
+      "Thursday",
+      "meeting",
+      "suggested"
+    ],
+    "correctSentence": "She suggested postponing the meeting until Thursday",
+    "explanationAr": "الفعل suggest يتبعه gerund مباشرة، ولا يُقال suggested to postpone."
+  },
+  {
+    "id": "sb-b2-2",
+    "level": "B2",
+    "promptAr": "رتّب شرطاً ثالثاً مع قلب نحوي",
+    "grammarFocusAr": "الشرط الثالث بحذف if والقلب بـ Had",
+    "wordTiles": [
+      "earlier",
+      "Had",
+      "on",
+      "have",
+      "we",
+      "launched",
+      "would",
+      "tested",
+      "time",
+      "we"
+    ],
+    "correctSentence": "Had we tested earlier we would have launched on time",
+    "explanationAr": "حذف if يوجب القلب Had we + التصريف الثالث، والجواب would have + التصريف الثالث."
+  },
+  {
+    "id": "sb-b2-3",
+    "level": "B2",
+    "promptAr": "رتّب حجة مهذبة",
+    "grammarFocusAr": "despite مع الاسم أو gerund",
+    "wordTiles": [
+      "we",
+      "Despite",
+      "on",
+      "shipped",
+      "the",
+      "delay",
+      "time"
+    ],
+    "correctSentence": "Despite the delay we shipped on time",
+    "explanationAr": "despite يتبعه اسم مباشرة، ولا يُقال despite of."
+  },
+  {
+    "id": "sb-c1-1",
+    "level": "C1",
+    "promptAr": "رتّب جملة بصيغة Subjunctive",
+    "grammarFocusAr": "التصريح بعد insisted that بالمصدر التجريدي",
+    "wordTiles": [
+      "board",
+      "The",
+      "submit",
+      "the",
+      "that",
+      "he",
+      "insisted",
+      "report"
+    ],
+    "correctSentence": "The board insisted that he submit the report",
+    "explanationAr": "صيغة subjunctive تستخدم submit بلا s حتى مع مفرد الغائب، وتكرار the مقصود لأن الكلمة تُستخدم مرتين."
+  },
+  {
+    "id": "sb-c1-2",
+    "level": "C1",
+    "promptAr": "رتّب جملة بالقلب النحوي",
+    "grammarFocusAr": "القلب بعد ظرف النفي Rarely",
+    "wordTiles": [
+      "a",
+      "decision",
+      "has",
+      "such",
+      "Rarely",
+      "weight",
+      "carried"
+    ],
+    "correctSentence": "Rarely has a decision carried such weight",
+    "explanationAr": "بدء الجملة بظرف نفي يوجب تقديم الفعل المساعد على الفاعل."
+  },
+  {
+    "id": "sb-c1-3",
+    "level": "C1",
+    "promptAr": "رتّب جملة Not only مع القلب",
+    "grammarFocusAr": "Not only followed by inversion then but also",
+    "wordTiles": [
+      "they",
+      "did",
+      "Not",
+      "but",
+      "meet",
+      "the",
+      "only",
+      "target",
+      "also",
+      "cut",
+      "costs",
+      "they"
+    ],
+    "correctSentence": "Not only did they meet the target but they also cut costs",
+    "explanationAr": "بعد Not only يأتي did + الفاعل + المصدر، ثم but مع also في الشق الثاني."
+  },
+  {
+    "id": "sb-c2-1",
+    "level": "C2",
+    "promptAr": "رتّب افتتاحية بلاغية",
+    "grammarFocusAr": "القلب مع Seldom والفعل المساعد does",
+    "wordTiles": [
+      "rhetoric",
+      "Seldom",
+      "an",
+      "does",
+      "symmetry",
+      "unearned",
+      "survive"
+    ],
+    "correctSentence": "Seldom does rhetoric survive an unearned symmetry",
+    "explanationAr": "ظرف النفي في البداية يستدعي does ثم الفاعل ثم المصدر survive."
+  },
+  {
+    "id": "sb-c2-2",
+    "level": "C2",
+    "promptAr": "رتّب تمييزاً دلالياً بمنفى الموازنة",
+    "grammarFocusAr": "not that … but that للرفض التصحيحي",
+    "wordTiles": [
+      "argues",
+      "that",
+      "The",
+      "failed",
+      "essay",
+      "the",
+      "not",
+      "but",
+      "policy",
+      "it",
+      "was",
+      "misread",
+      "that"
+    ],
+    "correctSentence": "The essay argues not that the policy failed but that it was misread",
+    "explanationAr": "البناء not that … but that ينفي تفسيراً ويثبت بدلاً عنه تفسيراً آخر."
+  },
+  {
+    "id": "sb-c2-3",
+    "level": "C2",
+    "promptAr": "رتّب نثراً بمقابلة متماثلة",
+    "grammarFocusAr": "التقابل النحوي المتوازن (parallel antithesis)",
+    "wordTiles": [
+      "calibration",
+      "is",
+      "judged",
+      "by",
+      "Academic",
+      "less",
+      "confidence",
+      "than",
+      "its",
+      "prose",
+      "by",
+      "its"
+    ],
+    "correctSentence": "Academic prose is judged less by its confidence than by its calibration",
+    "explanationAr": "التقابل less by … than by … يشترط تكرار حرف الجر للحفاظ على التوازن النحوي."
+  }
+]

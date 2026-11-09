@@ -1,0 +1,32 @@
+[
+  {
+    "wrong": "I am agree with you.",
+    "correct": "I agree with you.",
+    "type": "فعل الكينونة الزائد",
+    "explanationAr": "الفعل agree فعل مستقل ولا يسبق بـ am."
+  },
+  {
+    "wrong": "He is engineer.",
+    "correct": "He is an engineer.",
+    "type": "إغفال أدوات النكرة a / an",
+    "explanationAr": "في الإنجليزية كل اسم مهنة مفرد معدود يجب أن يسبق بـ a أو an."
+  },
+  {
+    "wrong": "The car which I bought it.",
+    "correct": "The car which I bought.",
+    "type": "الضمير العائد الزائد (Resumptive Pronoun)",
+    "explanationAr": "في جمل الوصل الإنجليزية لا نكرر الضمير العائد على الاسم الموصول."
+  },
+  {
+    "wrong": "I will call you when I will arrive.",
+    "correct": "I will call you when I arrive.",
+    "type": "المستقبل المضاعف في جمل الشرط والوقت",
+    "explanationAr": "بعد when و if نستخدم المضارع البسيط للتعبير عن المستقبل."
+  },
+  {
+    "wrong": "I have 25 years old.",
+    "correct": "I am 25 years old.",
+    "type": "التعبير عن العمر بفعل الملكية",
+    "explanationAr": "في الإنجليزية نستخدم فعل الكينونة To Be للتعبير عن العمر وليس Have."
+  }
+]

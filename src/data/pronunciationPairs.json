@@ -1,0 +1,308 @@
+[
+  {
+    "id": "p_vs_b",
+    "titleAr": "التمييز بين P و B",
+    "titleEn": "The P versus B challenge",
+    "phonemePair": "/p/ vs /b/",
+    "summaryAr": "حرف P مهموس يخرج بدفع هواء قوي، أما B مجهور يهتز فيه الحبلان الصوتيان.",
+    "mouthPositionAr": "لنطق P اضغط الشفتين ثم افتحهما مع نفخة هواء واضحة؛ لنطق B اضغط الشفتين مع إشعال الصوت من الحلق دون هواء.",
+    "arabicTransferWarningAr": "لا يوجد صوت P في العربية، فيميل الناطق بالعربية إلى نطق Park كـ Bark ويغيّر المعنى بالكامل.",
+    "minimalPairs": [
+      {
+        "wordA": "park",
+        "meaningArA": "حديقة / يوقف",
+        "ipaA": "/pɑːrk/",
+        "wordB": "bark",
+        "meaningArB": "نباح",
+        "ipaB": "/bɑːrk/"
+      },
+      {
+        "wordA": "pen",
+        "meaningArA": "قلم",
+        "ipaA": "/pen/",
+        "wordB": "Ben",
+        "meaningArB": "اسم بن",
+        "ipaB": "/ben/"
+      },
+      {
+        "wordA": "pass",
+        "meaningArA": "يمر",
+        "ipaA": "/pæs/",
+        "wordB": "base",
+        "meaningArB": "قاعدة",
+        "ipaB": "/beɪs/"
+      },
+      {
+        "wordA": "pull",
+        "meaningArA": "يسحب",
+        "ipaA": "/pʊl/",
+        "wordB": "bull",
+        "meaningArB": "ثور",
+        "ipaB": "/bʊl/"
+      },
+      {
+        "wordA": "pie",
+        "meaningArA": "فطيرة",
+        "ipaA": "/paɪ/",
+        "wordB": "buy",
+        "meaningArB": "يشتري",
+        "ipaB": "/baɪ/"
+      },
+      {
+        "wordA": "cap",
+        "meaningArA": "قبعة",
+        "ipaA": "/kæp/",
+        "wordB": "cab",
+        "meaningArB": "سيارة أجرة",
+        "ipaB": "/kæb/"
+      }
+    ]
+  },
+  {
+    "id": "v_vs_f",
+    "titleAr": "التمييز بين V و F",
+    "titleEn": "V versus F",
+    "phonemePair": "/v/ vs /f/",
+    "summaryAr": "كلاهما شفتي أسناني، لكن F مهموس بلا اهتزاز وV مجهور مع طنين.",
+    "mouthPositionAr": "المس أطراف الأسنان العلوية بالشفة السفلية؛ لنطق F ادفع الهواء فقط، ولنطق V اجعل الشفة تهتز كالنحلة.",
+    "arabicTransferWarningAr": "صوت V غير موجود في العربية الفصحى، فيُنطق غالباً فاء فتضيع المقابلة بين very وberry.",
+    "minimalPairs": [
+      {
+        "wordA": "very",
+        "meaningArA": "جداً",
+        "ipaA": "/ˈver.i/",
+        "wordB": "ferry",
+        "meaningArB": "عبّارة",
+        "ipaB": "/ˈfer.i/"
+      },
+      {
+        "wordA": "van",
+        "meaningArA": "شاحنة صغيرة",
+        "ipaA": "/væn/",
+        "wordB": "fan",
+        "meaningArB": "مروحة",
+        "ipaB": "/fæn/"
+      },
+      {
+        "wordA": "vine",
+        "meaningArA": "كرمة",
+        "ipaA": "/vaɪn/",
+        "wordB": "fine",
+        "meaningArB": "جيد",
+        "ipaB": "/faɪn/"
+      },
+      {
+        "wordA": "veil",
+        "meaningArA": "حجاب",
+        "ipaA": "/veɪl/",
+        "wordB": "fail",
+        "meaningArB": "يفشل",
+        "ipaB": "/feɪl/"
+      },
+      {
+        "wordA": "vest",
+        "meaningArA": "صدرية",
+        "ipaA": "/vest/",
+        "wordB": "fest",
+        "meaningArB": "احتفال (اختصار)",
+        "ipaB": "/fest/"
+      }
+    ]
+  },
+  {
+    "id": "th_sounds",
+    "titleAr": "صوتا TH المهموس والمجهور",
+    "titleEn": "The two TH sounds",
+    "phonemePair": "/θ/ vs /ð/",
+    "summaryAr": "TH يُنطق بوضع طرف اللسان بين الأسنان، ثاءً في Three وذالاً في This.",
+    "mouthPositionAr": "أخرج طرف اللسان قليلاً بين الأسنان وادفع الهواء لـ /θ/، أو اجعله يهتز لـ /ð/.",
+    "arabicTransferWarningAr": "العربية فيها الثاء والذال فالنطق ممكن، لكن الميل إلى استبدالها بتاء أو دال في الكلام السريع.",
+    "minimalPairs": [
+      {
+        "wordA": "three",
+        "meaningArA": "ثلاثة",
+        "ipaA": "/θriː/",
+        "wordB": "tree",
+        "meaningArB": "شجرة",
+        "ipaB": "/triː/"
+      },
+      {
+        "wordA": "think",
+        "meaningArA": "يفكر",
+        "ipaA": "/θɪŋk/",
+        "wordB": "sink",
+        "meaningArB": "حوض / يغرق",
+        "ipaB": "/sɪŋk/"
+      },
+      {
+        "wordA": "thank",
+        "meaningArA": "يشكر",
+        "ipaA": "/θæŋk/",
+        "wordB": "tank",
+        "meaningArB": "خزان",
+        "ipaB": "/tæŋk/"
+      },
+      {
+        "wordA": "they",
+        "meaningArA": "هم",
+        "ipaA": "/ðeɪ/",
+        "wordB": "day",
+        "meaningArB": "يوم",
+        "ipaB": "/deɪ/"
+      },
+      {
+        "wordA": "then",
+        "meaningArA": "ثم",
+        "ipaA": "/ðen/",
+        "wordB": "ten",
+        "meaningArB": "عشرة",
+        "ipaB": "/ten/"
+      },
+      {
+        "wordA": "bathe",
+        "meaningArA": "يستحم",
+        "ipaA": "/beɪð/",
+        "wordB": "bath",
+        "meaningArB": "حمام",
+        "ipaB": "/bæθ/"
+      }
+    ]
+  },
+  {
+    "id": "short_long_vowels",
+    "titleAr": "المتحركة القصيرة والطويلة",
+    "titleEn": "Short versus long vowels",
+    "phonemePair": "/ɪ/ vs /iː/",
+    "summaryAr": "المتحركة القصيرة مرتخية والسريعة، والطويلة ممدودة؛ الفرق يغيّر المعنى.",
+    "mouthPositionAr": "لـ /iː/ اشدق زاوية الفم للأمام مع شدّ؛ ولـ /ɪ/ أرخِ الشفتين مع فتح بسيط.",
+    "arabicTransferWarningAr": "العربية لا تفرق بين كل هذه الأطوال، فيميل المتعلم لاختصار It أو مدها في Seat.",
+    "minimalPairs": [
+      {
+        "wordA": "ship",
+        "meaningArA": "سفينة",
+        "ipaA": "/ʃɪp/",
+        "wordB": "sheep",
+        "meaningArB": "خروف",
+        "ipaB": "/ʃiːp/"
+      },
+      {
+        "wordA": "sit",
+        "meaningArA": "يجلس",
+        "ipaA": "/sɪt/",
+        "wordB": "seat",
+        "meaningArB": "مقعد",
+        "ipaB": "/siːt/"
+      },
+      {
+        "wordA": "fit",
+        "meaningArA": "يناسب",
+        "ipaA": "/fɪt/",
+        "wordB": "feet",
+        "meaningArB": "أقدام",
+        "ipaB": "/fiːt/"
+      },
+      {
+        "wordA": "full",
+        "meaningArA": "ممتلئ",
+        "ipaA": "/fʊl/",
+        "wordB": "fool",
+        "meaningArB": "أحمق",
+        "ipaB": "/fuːl/"
+      },
+      {
+        "wordA": "pool",
+        "meaningArA": "مسبح",
+        "ipaA": "/puːl/",
+        "wordB": "pull",
+        "meaningArB": "يسحب",
+        "ipaB": "/pʊl/"
+      }
+    ]
+  },
+  {
+    "id": "emphatic_transfer",
+    "titleAr": "تفخيم الأصوات الإنجليزية",
+    "titleEn": "Unnatural emphasis and stress",
+    "phonemePair": "/s/ vs /k/ vs /t/",
+    "summaryAr": "الحروف الإنجليزية مسترخية غير مفخمة، والتفخيم العربي يجعل النطق ثقيلاً.",
+    "mouthPositionAr": "أبقِ لسانك منخفضاً ومبتعداً عن سقف الحلق، ولاحظ أن الهواء يخرج خفيفاً بلا ضغط.",
+    "arabicTransferWarningAr": "نقل عادات القاف والطاء والصاد إلى الإنجليزية يجعل كلمة مثل stop تُسمع إستوب.",
+    "minimalPairs": [
+      {
+        "wordA": "stop",
+        "meaningArA": "يتوقف",
+        "ipaA": "/stɑːp/",
+        "wordB": "top",
+        "meaningArB": "قمة",
+        "ipaB": "/tɑːp/"
+      },
+      {
+        "wordA": "school",
+        "meaningArA": "مدرسة",
+        "ipaA": "/skuːl/",
+        "wordB": "cool",
+        "meaningArB": "بارد / رائع",
+        "ipaB": "/kuːl/"
+      },
+      {
+        "wordA": "time",
+        "meaningArA": "وقت",
+        "ipaA": "/taɪm/",
+        "wordB": "dime",
+        "meaningArB": "عملة عشرة سنتات",
+        "ipaB": "/daɪm/"
+      },
+      {
+        "wordA": "car",
+        "meaningArA": "سيارة",
+        "ipaA": "/kɑːr/",
+        "wordB": "gar",
+        "meaningArB": "آلية",
+        "ipaB": "/ɡɑːr/"
+      }
+    ]
+  },
+  {
+    "id": "word_stress",
+    "titleAr": "التنغيم والضغط في الكلمة",
+    "titleEn": "Word stress and rhythm",
+    "phonemePair": "ˈ vs ˌ",
+    "summaryAr": "المقطع المضغوط هو الأطول والأنبغ؛ تغييره يكسر الفهم حتى مع نطق الحروف صحيحة.",
+    "mouthPositionAr": "ارفع نبرة الصوت ومدّ vowels في المقطع المضغوط، واخفّض الباقي إلى schwa خافت.",
+    "arabicTransferWarningAr": "الوزن العربي أكثر انتظاماً، فيميل المتعلم إلى ضغط كل المقاطع بالتساوي.",
+    "minimalPairs": [
+      {
+        "wordA": "record",
+        "meaningArA": "تسجيل (فعل)",
+        "ipaA": "/rɪˈkɚd/",
+        "wordB": "record",
+        "meaningArB": "سجل (اسم)",
+        "ipaB": "/ˈrek.ɚd/"
+      },
+      {
+        "wordA": "present",
+        "meaningArA": "يقدّم (فعل)",
+        "ipaA": "/prɪˈzent/",
+        "wordB": "present",
+        "meaningArB": "هدية (اسم)",
+        "ipaB": "/ˈprez.ənt/"
+      },
+      {
+        "wordA": "increase",
+        "meaningArA": "يزداد (فعل)",
+        "ipaA": "/ɪnˈkriːs/",
+        "wordB": "increase",
+        "meaningArB": "زيادة (اسم)",
+        "ipaB": "/ˈɪn.kriːs/"
+      },
+      {
+        "wordA": "photograph",
+        "meaningArA": "صورة",
+        "ipaA": "/ˈfoʊ.t̬ə.ɡræf/",
+        "wordB": "photography",
+        "meaningArB": "التصوير",
+        "ipaB": "/fəˈtɑː.ɡrə.fi/"
+      }
+    ]
+  }
+]

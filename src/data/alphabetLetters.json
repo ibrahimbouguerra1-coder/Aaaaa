@@ -1,0 +1,266 @@
+[
+  {
+    "upper": "A",
+    "lower": "a",
+    "nameAr": "إيه",
+    "soundAr": "آه / أ / إي (صوت متحرك)",
+    "isVowel": true,
+    "exampleWord": "Apple",
+    "examplePhoneticAr": "أَبَل",
+    "exampleMeaningAr": "تفاحة"
+  },
+  {
+    "upper": "B",
+    "lower": "b",
+    "nameAr": "بي (خفيفة)",
+    "soundAr": "ب (مجهور بانحباس صوتي)",
+    "isVowel": false,
+    "exampleWord": "Book",
+    "examplePhoneticAr": "بُوك",
+    "exampleMeaningAr": "كتاب"
+  },
+  {
+    "upper": "C",
+    "lower": "c",
+    "nameAr": "سي",
+    "soundAr": "ك (أو س قبل e, i, y)",
+    "isVowel": false,
+    "exampleWord": "Cat / City",
+    "examplePhoneticAr": "كَات / سِيتِي",
+    "exampleMeaningAr": "قطة / مدينة",
+    "arabicNote": "يُنطق س إذا جاء بعده e أو i أو y."
+  },
+  {
+    "upper": "D",
+    "lower": "d",
+    "nameAr": "دي",
+    "soundAr": "د (مرققة في مقدمة الفم)",
+    "isVowel": false,
+    "exampleWord": "Door",
+    "examplePhoneticAr": "دُور",
+    "exampleMeaningAr": "باب"
+  },
+  {
+    "upper": "E",
+    "lower": "e",
+    "nameAr": "إي",
+    "soundAr": "إِ / إي (متحرك)",
+    "isVowel": true,
+    "exampleWord": "Egg",
+    "examplePhoneticAr": "إِيج",
+    "exampleMeaningAr": "بيضة"
+  },
+  {
+    "upper": "F",
+    "lower": "f",
+    "nameAr": "إف",
+    "soundAr": "ف (هواء بين الأسنان والشفة)",
+    "isVowel": false,
+    "exampleWord": "Friend",
+    "examplePhoneticAr": "فريند",
+    "exampleMeaningAr": "صديق"
+  },
+  {
+    "upper": "G",
+    "lower": "g",
+    "nameAr": "جي",
+    "soundAr": "ج قاهرية / ج معطشة",
+    "isVowel": false,
+    "exampleWord": "Good",
+    "examplePhoneticAr": "جُود",
+    "exampleMeaningAr": "جيد"
+  },
+  {
+    "upper": "H",
+    "lower": "h",
+    "nameAr": "إيتش",
+    "soundAr": "هـ (زفير لطيف من الحلق)",
+    "isVowel": false,
+    "exampleWord": "House",
+    "examplePhoneticAr": "هَاوْس",
+    "exampleMeaningAr": "منزل",
+    "arabicNote": "يشبه الهاء العربية الصافية مثل Hello."
+  },
+  {
+    "upper": "I",
+    "lower": "i",
+    "nameAr": "آي",
+    "soundAr": "إِ قصيرة / آي ممتدة",
+    "isVowel": true,
+    "exampleWord": "In / Ice",
+    "examplePhoneticAr": "إِن / آيْس",
+    "exampleMeaningAr": "في / ثلج"
+  },
+  {
+    "upper": "J",
+    "lower": "j",
+    "nameAr": "جاي",
+    "soundAr": "دجـ (معطشة بشدة)",
+    "isVowel": false,
+    "exampleWord": "Job",
+    "examplePhoneticAr": "دْجُوب",
+    "exampleMeaningAr": "وظيفة"
+  },
+  {
+    "upper": "K",
+    "lower": "k",
+    "nameAr": "كاي",
+    "soundAr": "ك (صامت قبل N)",
+    "isVowel": false,
+    "exampleWord": "Key",
+    "examplePhoneticAr": "كِي",
+    "exampleMeaningAr": "مفتاح"
+  },
+  {
+    "upper": "L",
+    "lower": "l",
+    "nameAr": "إل",
+    "soundAr": "ل (مرققة أو مفخمة Dark L)",
+    "isVowel": false,
+    "exampleWord": "Life",
+    "examplePhoneticAr": "لايْف",
+    "exampleMeaningAr": "حياة"
+  },
+  {
+    "upper": "M",
+    "lower": "m",
+    "nameAr": "إم",
+    "soundAr": "م (إطباق الشفتين)",
+    "isVowel": false,
+    "exampleWord": "Morning",
+    "examplePhoneticAr": "مُورْنِينْج",
+    "exampleMeaningAr": "صباح"
+  },
+  {
+    "upper": "N",
+    "lower": "n",
+    "nameAr": "إن",
+    "soundAr": "ن (طرف اللسان في سقف الحلق)",
+    "isVowel": false,
+    "exampleWord": "Name",
+    "examplePhoneticAr": "نَيْم",
+    "exampleMeaningAr": "اسم"
+  },
+  {
+    "upper": "O",
+    "lower": "o",
+    "nameAr": "أو",
+    "soundAr": "أُو / أُ قصيرة",
+    "isVowel": true,
+    "exampleWord": "Open",
+    "examplePhoneticAr": "أُوبِن",
+    "exampleMeaningAr": "يفتح / مفتوح"
+  },
+  {
+    "upper": "P",
+    "lower": "p",
+    "nameAr": "پي (شديدة)",
+    "soundAr": "پ (انفجار هوائي محسوس)",
+    "isVowel": false,
+    "exampleWord": "Pen",
+    "examplePhoneticAr": "پِين",
+    "exampleMeaningAr": "قلم",
+    "arabicNote": "احبس الهواء واطلقه باندفاع قوي لتمييزه عن الباء."
+  },
+  {
+    "upper": "Q",
+    "lower": "q",
+    "nameAr": "كيو",
+    "soundAr": "كْو (دائماً يتبعه u)",
+    "isVowel": false,
+    "exampleWord": "Question",
+    "examplePhoneticAr": "كْوِيسْشَن",
+    "exampleMeaningAr": "سؤال"
+  },
+  {
+    "upper": "R",
+    "lower": "r",
+    "nameAr": "آر",
+    "soundAr": "ر (بدون تكرار اللسان)",
+    "isVowel": false,
+    "exampleWord": "Read",
+    "examplePhoneticAr": "رِيد",
+    "exampleMeaningAr": "يقرأ"
+  },
+  {
+    "upper": "S",
+    "lower": "s",
+    "nameAr": "إس",
+    "soundAr": "س (صفير نقي)",
+    "isVowel": false,
+    "exampleWord": "Sun",
+    "examplePhoneticAr": "سَان",
+    "exampleMeaningAr": "شمس"
+  },
+  {
+    "upper": "T",
+    "lower": "t",
+    "nameAr": "تي",
+    "soundAr": "ت (مرققة مع همسة هواء)",
+    "isVowel": false,
+    "exampleWord": "Time",
+    "examplePhoneticAr": "تَايْم",
+    "exampleMeaningAr": "وقت"
+  },
+  {
+    "upper": "U",
+    "lower": "u",
+    "nameAr": "يو",
+    "soundAr": "آ / يو (متحرك)",
+    "isVowel": true,
+    "exampleWord": "Sun / Use",
+    "examplePhoneticAr": "سَان / يُوز",
+    "exampleMeaningAr": "شمس / يستخدم",
+    "arabicNote": "يُنطق غالباً كفتحة مفخمة سريعة (Cup, Bus)."
+  },
+  {
+    "upper": "V",
+    "lower": "v",
+    "nameAr": "ڤي",
+    "soundAr": "ڤ (اهتزاز صوتي كالنحلة)",
+    "isVowel": false,
+    "exampleWord": "Very",
+    "examplePhoneticAr": "ڤِيرِي",
+    "exampleMeaningAr": "جداً"
+  },
+  {
+    "upper": "W",
+    "lower": "w",
+    "nameAr": "دبليو",
+    "soundAr": "و (استدارة الشفتين)",
+    "isVowel": false,
+    "exampleWord": "Water",
+    "examplePhoneticAr": "وَاتَر",
+    "exampleMeaningAr": "ماء"
+  },
+  {
+    "upper": "X",
+    "lower": "x",
+    "nameAr": "إكس",
+    "soundAr": "كْس (أو ز أحياناً)",
+    "isVowel": false,
+    "exampleWord": "Box",
+    "examplePhoneticAr": "بُوكس",
+    "exampleMeaningAr": "صندوق"
+  },
+  {
+    "upper": "Y",
+    "lower": "y",
+    "nameAr": "واي",
+    "soundAr": "ي (شبه صامت)",
+    "isVowel": false,
+    "exampleWord": "Yes",
+    "examplePhoneticAr": "يِس",
+    "exampleMeaningAr": "نعم"
+  },
+  {
+    "upper": "Z",
+    "lower": "z",
+    "nameAr": "زِد / زي",
+    "soundAr": "ز (طنين صوتي)",
+    "isVowel": false,
+    "exampleWord": "Zero",
+    "examplePhoneticAr": "زِيرُو",
+    "exampleMeaningAr": "صفر"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "Fares English | منصة فارس لتعليم الإنجليزية",
+  "short_name": "Fares English",
+  "description": "منصة فارس التعليمية الشاملة لإتقان اللغة الإنجليزية من الصفر A0 حتى الاحتراف C2 مع مدرب الذكاء الاصطناعي والصوتيات.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#58cc02",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

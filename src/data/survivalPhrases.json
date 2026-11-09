@@ -1,0 +1,136 @@
+[
+  {
+    "id": "surv-greetings",
+    "titleAr": "التحيات والتعارف الأول",
+    "phrases": [
+      {
+        "en": "Hello, how are you?",
+        "phoneticAr": "هَلُو، هَاوْ آر يُو؟",
+        "ar": "مرحباً، كيف حالك؟"
+      },
+      {
+        "en": "I am fine, thank you.",
+        "phoneticAr": "آيْ آمْ فَايْن، ثَانْك يُو.",
+        "ar": "أنا بخير، شكراً لك."
+      },
+      {
+        "en": "My name is Ahmed.",
+        "phoneticAr": "مَايْ نَيْم إِز أَحْمَد.",
+        "ar": "اسمي أحمد."
+      },
+      {
+        "en": "Nice to meet you.",
+        "phoneticAr": "نَايْس تُو مِيتْ يُو.",
+        "ar": "سعدت بلقائك."
+      },
+      {
+        "en": "Where are you from?",
+        "phoneticAr": "وَيْر آر يُو فْرُومْ؟",
+        "ar": "من أين أنت؟"
+      }
+    ]
+  },
+  {
+    "id": "surv-polite",
+    "titleAr": "العبارات المهذبة السحرية",
+    "phrases": [
+      {
+        "en": "Excuse me, please.",
+        "phoneticAr": "إِكْسْكْيُوزْ مِي، بْلِيزْ.",
+        "ar": "معذرة، من فضلك."
+      },
+      {
+        "en": "Thank you very much.",
+        "phoneticAr": "ثَانْك يُو ڤِيرِي مَاتْش.",
+        "ar": "شكراً جزيلاً لك."
+      },
+      {
+        "en": "You are welcome.",
+        "phoneticAr": "يُو آر وِلْكَام.",
+        "ar": "عفواً (على الرحب والسعة)."
+      },
+      {
+        "en": "I am sorry.",
+        "phoneticAr": "آيْ آمْ سُورِي.",
+        "ar": "أنا آسف."
+      },
+      {
+        "en": "No problem.",
+        "phoneticAr": "نُو بْرُوبْلِيم.",
+        "ar": "لا توجد مشكلة."
+      }
+    ]
+  },
+  {
+    "id": "surv-needs",
+    "titleAr": "التعبير عن الاحتياجات الأساسية",
+    "phrases": [
+      {
+        "en": "I want water, please.",
+        "phoneticAr": "آيْ وَانْت وَاتَر، بْلِيزْ.",
+        "ar": "أريد ماءً، من فضلك."
+      },
+      {
+        "en": "I need urgent help.",
+        "phoneticAr": "آيْ نِيدْ أُورْجَنْت هِلْب.",
+        "ar": "أحتاج إلى مساعدة عاجلة."
+      },
+      {
+        "en": "Where is the nearest hospital?",
+        "phoneticAr": "وَيْر إِز ذَا نِيرِسْت هُوسْبِيتَال؟",
+        "ar": "أين تقع أقرب مستشفى؟"
+      },
+      {
+        "en": "How much does this cost?",
+        "phoneticAr": "هَاوْ مَاتْش دَازْ ذِس كُوسْت؟",
+        "ar": "كم تكلفة هذا؟"
+      },
+      {
+        "en": "Where is the bathroom, please?",
+        "phoneticAr": "وَيْر إِز ذَا بَاثْرُوم، بْلِيزْ؟",
+        "ar": "أين الحمام من فضلك؟"
+      },
+      {
+        "en": "How do I get to the airport?",
+        "phoneticAr": "هَاوْ دُو آيْ جِت تُو ذي إِيرْبُورْت؟",
+        "ar": "كيف أصل إلى المطار؟"
+      },
+      {
+        "en": "Can you speak slowly, please?",
+        "phoneticAr": "كَانْ يُو سْبِيكْ سْلُولِي، بْلِيزْ؟",
+        "ar": "هل يمكنك التحدث ببطء من فضلك؟"
+      },
+      {
+        "en": "I do not understand.",
+        "phoneticAr": "آيْ دُو نُوتْ أَنْدَرْسْتَانْد.",
+        "ar": "أنا لا أفهم."
+      }
+    ]
+  },
+  {
+    "id": "surv-numbers-days",
+    "titleAr": "الأرقام والأيام والأوقات",
+    "phrases": [
+      {
+        "en": "One, Two, Three, Four, Five",
+        "phoneticAr": "وَانْ، تُو، ثْرِي، فُور، فَايْف",
+        "ar": "واحد، اثنان، ثلاثة، أربعة، خمسة"
+      },
+      {
+        "en": "Six, Seven, Eight, Nine, Ten",
+        "phoneticAr": "سِكْس، سِيڤِن، إِيْت، نَايْن، تِين",
+        "ar": "ستة، سبعة، ثمانية، تسعة، عشرة"
+      },
+      {
+        "en": "Today / Tomorrow / Yesterday",
+        "phoneticAr": "تُودَاي / تُمُورُو / يِسْتَرْدَاي",
+        "ar": "اليوم / غداً / أمس"
+      },
+      {
+        "en": "Morning / Evening / Night",
+        "phoneticAr": "مُورْنِينْج / إِيڤْنِينْج / نَايْت",
+        "ar": "الصباح / المساء / الليل"
+      }
+    ]
+  }
+]
